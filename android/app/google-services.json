@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "769057300457",
+    "firebase_url": "https://ace-of-spades-kanissh.firebaseio.com",
+    "project_id": "ace-of-spades-kanissh",
+    "storage_bucket": "ace-of-spades-kanissh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769057300457:android:0e0662970c5f4436a4b578",
+        "android_client_info": {
+          "package_name": "com.kanissh.ace_of_spades"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769057300457-sglf7se6pg298tn3pees6teb8mruo3tj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kanissh.ace_of_spades",
+            "certificate_hash": "60c56005e5f20802bd357b4ac74239a1d147b0c5"
+          }
+        },
+        {
+          "client_id": "769057300457-6akqe7m5mkdudqc0jaundcun2faumetn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaOB7hzbZZ7Ba_cHIEMd0luEFj8-YFyqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769057300457-6akqe7m5mkdudqc0jaundcun2faumetn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
