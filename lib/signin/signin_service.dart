@@ -33,7 +33,7 @@ Future<User> signInWithGoogle() async {
       final User currentUser = _auth.currentUser;
       assert(user.uid == currentUser.uid);
 
-      print('Sign in with google succeded: $user');
+      print('Sign in with google succeded: $user.email');
 
       return user;
     }
